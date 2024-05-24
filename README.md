@@ -1,0 +1,2 @@
+# Pragya-Saini---Software-Development-Internship---Tasks
+I developed several programs: a Temperature Conversion Program for Celsius, Fahrenheit, and Kelvin; a Guessing Game with random number feedback; a Simple Contact Management System for adding, viewing, editing, and deleting contacts; a Sudoku Solver using algorithms; and a Web Scraping tool to extract and store e-commerce product info in a CSV file.
